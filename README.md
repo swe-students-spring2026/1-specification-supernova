@@ -111,6 +111,19 @@ For busy individuals and communal living environments who struggle with food was
 
 [Clickable Prototype of Better Fridge](https://www.figma.com/proto/67LxaMQ52kScxfdWNGZHaD/Better-Fridge---Supernova?node-id=5-177&t=3V3UuV1PpNY93DmB-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A338&starting-point-node-id=5%3A177)
 
-Screenshots from the prototype: 
+### A Note on Our Prototype
+
+We are excited to share our prototype for Better Fridge, although we couldn't present. We realized that our wireframes might look a bit more "styled" than a standard low-fidelity sketch, so we wanted to honestly explain the functional reasoning behind these choices:
+
+- You will notice the food items are presented as stacked cards rather than a flat list.
+  - We found that a standard text list made it hard to distinguish between individual items when the fridge is full. We used this "stacked" format simply to group the data (Name, Owner, Status) into distinct blocks, making it easier to scan on a small screen.
+  - It is reflected in the research that users want to scan the homepage during a grocery shopping and get as much info as possible.
+- We used simple geometric icons for food items and avatars instead of generic grey boxes.
+  - This was purely for differentiation. Our grey boxes were used for image placeholders, so for icons, we used abstract geometry shapes.
+- We manually applied thick borders and high contrast to the cards for accessibility. We wanted to ensure that the "Expired" status and the interactive areas (buttons) were clearly separated from the background and impossible to miss.
+
+Our priority remained entirely on the functionality, specifically the logic of handling expired items and switching between fridges. We hope the visual structure supports this logic rather than distracting from it.
+
+### Screenshots from the prototype
 
 ![Main Page](assets/screenshots/main-page.png) ![Switching Fridges](assets/screenshots/switching-fridges.png) ![Filtering Food Items](assets/screenshots/filter-selected.png) ![Food Items](assets/screenshots/item.png) ![AI Recipe Bot](assets/screenshots/ai.png) ![Editing a Fridge](assets/screenshots/edit-fridge.png)
