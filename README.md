@@ -111,6 +111,6 @@ For busy individuals and communal living environments who struggle with food was
 
 [Clickable Prototype of Better Fridge](https://www.figma.com/proto/67LxaMQ52kScxfdWNGZHaD/Better-Fridge---Supernova?node-id=5-177&t=3V3UuV1PpNY93DmB-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A338&starting-point-node-id=5%3A177)
 
-Screenshots: 
+Screenshots from the prototype: 
 
 ![Main Page](assets/screenshots/main-page.png) ![Switching Fridges](assets/screenshots/switching-fridges.png) ![Filtering Food Items](assets/screenshots/filter-selected.png) ![Food Items](assets/screenshots/item.png) ![AI Recipe Bot](assets/screenshots/ai.png) ![Editing a Fridge](assets/screenshots/edit-fridge.png)
