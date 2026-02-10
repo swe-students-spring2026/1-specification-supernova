@@ -68,9 +68,8 @@ For busy individuals and communal living environments who struggle with food was
 9. As an individual user, I want to sort items by expiration date so that I can see what needs to be used first.
 10. As an individual user, I want to receive expiration alerts so that I don't waste food.
 11. As an individual user, I want to ask AI Cook for recipe suggestions based on my fridge contents so that I know what to cook.
-12. As an individual user, I want to set my eating preferences (allergies, dietary restrictions) so that AI Cook gives me relevant suggestions.
-13. As an individual user, I want to create multiple fridges so that I can track different locations (home fridge, office fridge).
-14. As an individual user, I want to switch between my fridges so that I can manage them separately.
+12. As an individual user, I want to create multiple fridges so that I can track different locations (home fridge, office fridge).
+13. As an individual user, I want to switch between my fridges so that I can manage them separately.
 
 ### Group User
 
